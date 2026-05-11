@@ -16,7 +16,7 @@ const cards = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "/in/leasheila",
+    value: "/in/lea-labrador",
     href: "https://www.linkedin.com/in/lea-labrador-27b741363/",
   },
   { icon: Github, label: "GitHub", value: "@le7elea", href: "https://github.com/le7elea" },
