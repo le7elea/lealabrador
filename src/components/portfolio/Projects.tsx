@@ -4,6 +4,7 @@ import { SectionHeader } from "./Section";
 import visitrak from "@/assets/projectVisitrak.png";
 import mobile from "@/assets/project-artefacts.png";
 import portfolio from "@/assets/projectPortfolio.png";
+import coffee from "@/assets/coffee.png";
 
 const projects = [
   {
@@ -24,6 +25,12 @@ const projects = [
     desc: "This very site — built from scratch with motion, glassmorphism and a custom design system.",
     tech: ["React", "Vite", "Framer Motion"],
     image: portfolio,
+  },
+  {
+    title: "L7-Cafe Website",
+    desc: "L7-Cafe is a modern café app that streamlines food ordering, table reservations, and customer engagement in one convenient platform.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    image: coffee,
   },
 ];
 
